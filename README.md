@@ -5,9 +5,9 @@ The app will take in orders from customers and deplete stock from the store's in
 Using Node.js and SQL<br><br>
 ![Project Image](https://github.com/bggitacc/bamazon/blob/master/screen.jpg)
 
-[Working Project YouTube Video]("https://www.youtube.com/embed/4ihcjT2W1GQ")<br><br>
+[Working Project YouTube Video](https://www.youtube.com/embed/4ihcjT2W1GQ)<br><br>
 <br>
 ![Project Image](https://github.com/bggitacc/bamazon/blob/master/cloud9.jpg)
 
 
-[Working Cloud 9 Project]("https://ide.c9.io/bootcampbrian/bamazon")
+[Working Cloud 9 Project](https://ide.c9.io/bootcampbrian/bamazon)
