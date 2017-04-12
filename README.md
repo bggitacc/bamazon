@@ -7,7 +7,3 @@ Using Node.js and SQL<br><br>
 
 [Working Project YouTube Video](https://www.youtube.com/embed/4ihcjT2W1GQ)<br><br>
 <br>
-![Project Image](https://github.com/bggitacc/bamazon/blob/master/cloud9.jpg)
-
-
-[Working Cloud 9 Project](https://ide.c9.io/bootcampbrian/bamazon)
